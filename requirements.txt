@@ -1,0 +1,12 @@
+flask
+flask-login
+flask_bootstrap
+flask_ckeditor
+flask_sqlalchemy
+sqlalchemy
+werkzeug
+hashlib
+os
+typing
+functools
+datetime

@@ -1,6 +1,11 @@
-flask
-flask-login
-flask_bootstrap
-flask_ckeditor
+Bootstrap_Flask
+Flask_CKEditor
+Flask_Login
+Flask_WTF
+WTForms
+Werkzeug
+Flask
 flask_sqlalchemy
-sqlalchemy
+SQLAlchemy
+gunicorn
+psycopg2-binary
